@@ -11,7 +11,7 @@ They are valuable for planning large, complex projects and managing multiple pro
 However, finding open-source software to make timelines is a pain.
 The placeholder plan is not realistic, but you get the idea.
 
-
+writingPLan2025-2026.png
 
 
 
