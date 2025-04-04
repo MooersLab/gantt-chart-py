@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
-# Gantt chart via matplotlib in Python
+# Timelines as Gantt chart via matplotlib in Python
 
 ## Problem addressed
 
