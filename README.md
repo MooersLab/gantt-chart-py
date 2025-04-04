@@ -24,8 +24,9 @@ The placeholder plan is not realistic, but you get the idea.
  5. Add more categories of phases if desired.
  7. Change the colors to suit.
  8. Edit the title to suit.
- 9. Run the script: ./2025writing.py.
- 10. Image will be displayed and written to a PNG file.
+ 9. Run `chmod +x 2025writing.py`.
+ 10. Run the script: `./2025writing.py`.
+ 11. Image will be displayed and written to a PNG file.
 
 
 ## Update history
