@@ -9,25 +9,25 @@
 Gantt charts help keep you realistic about your planning.
 They are valuable for planning large, complex projects and managing multiple projects.
 However, finding open-source software to make timelines is a pain.
-The placeholder plan is not realistic, but you get the idea.
+The placeholder plan below is not realistic, but you get the idea.
 
 ![Writing Plan](writingPLan2025-2026.png)  
-
-
 
 
 ## Instructions
  1. Edit the path to your Python binary.
  2. Install missing modules with pip.
  3. Relabel the projects in the named tuple to customize.
- 4. Edit the start and end dates to suit.
- 5. Add more categories of phases if desired.
+ 4. Edit the start and end dates of each phase of a project in the named tuple to suit.
+ 5. Add or remove categories of phases if desired.
  7. Change the colors to suit.
  8. Edit the title to suit.
  9. Run `chmod +x 2025writing.py`.
  10. Run the script: `./2025writing.py`.
- 11. Image will be displayed and written to a PNG file.
+ 11. The resulting image will be displayed and written to a PNG file.
 
+You can repurpose this chart for a single project.
+Change the labels to distinct activity names so the time spans appear at different positions along the y-axis.
 
 ## Update history
 
