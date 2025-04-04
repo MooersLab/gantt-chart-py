@@ -9,19 +9,22 @@
 Gantt charts help keep you realistic about your planning.
 They are valuable for planning large, complex projects and managing multiple projects.
 However, finding open-source software to make timelines is a pain.
-The place holder plan is probably not realistic, but you get the idea.
+The placeholder plan is not realistic, but you get the idea.
 
+writingPLan2025-2026.png
 
 
 
 ## Instructions
  1. Edit the path to your Python binary.
- 2. Install with pip any missing modules.
+ 2. Install missing modules with pip.
  3. Relabel the projects in the named tuple to customize.
  4. Edit the start and end dates to suit.
- 5. Add more categories of phases, if desired.
+ 5. Add more categories of phases if desired.
  7. Change the colors to suit.
-
+ 8. Edit the title to suit.
+ 9. Run the script: ./2025writing.py.
+ 10. Image will be displayed and written to a PNG file.
 
 
 ## Update history
