@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/static/v1?label=gantt-chart-py&message=0.0&color=brightcolor)
+![Version](https://img.shields.io/static/v1?label=gantt-chart-py&message=0.1&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
