@@ -151,7 +151,7 @@ plt.axvline(x=mdates.date2num(today), color='red', linestyle='--',
 # Add legend for phases
 handles = [plt.Rectangle((0,0),1,1, color=color, alpha=0.8) for color in phase_colors.values()]
 labels = list(phase_colors.keys())
-plt.legend(handles, labels, loc='upper right', title='Grant Status')
+plt.legend(handles, labels, loc='upper right', title='Manuscript Phases')
 
 # Add title and labels
 plt.title('Journal Article Writing Plan 2025-2026', fontsize=16, pad=20)
@@ -171,9 +171,9 @@ for year_date in year_starts:
 # Adjust layout to prevent label cutoff
 plt.tight_layout()
 
-# Display the plot
-plt.show()
 
 # Uncomment to save the figure
 plt.savefig('writingPLan2025-2026.png', dpi=300, bbox_inches='tight')
 
+# Display the plot
+plt.show()
